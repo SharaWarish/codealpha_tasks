@@ -21,7 +21,7 @@ Retrieved five reviewed (Swiss-Prot) HBB sequences from UniProtKB across differe
 Selected Hemoglobin subunit beta (UniProt P68871, HBB_HUMAN) — continuing from the Task 2 alignment set — predicted its 3D structure using AlphaFold DB, and visualized/analyzed it in PyMOL, including backbone dihedral (phi/psi) angle analysis.
 📄 File: [`TASK 3 Protein Structure Prediction.docx`](./TASK%203%20Protein%20Structure%20Prediction.docx)
 
-### ✅ Task 4: Mini Project – Bioinformatics Databases / Tool Study
+### ✅ Task 4: Mini Project – Bioinformatics Databases and Tool Study
 **Role of Bioinformatics in Drug Discovery**
 A mini project studying how computational tools, biological databases, and algorithms are used in modern drug discovery — covering target identification, compound screening, and drug interaction prediction to reduce cost and time in developing new medicines.
 📄 File: [`TASK 4 Mini Project Bioinformatics Databases Tool Study.docx`](./TASK%204%20Mini%20Project%20Bioinformatics%20Databases%20Tool%20Study.docx)
